@@ -31,3 +31,14 @@ Hardware Matrix: Deterministic Microcontrollers (ESP32-S3 / Arduino Mega / Indus
 Cognitive Layer: Multi-Model AI Orchestration (Google Gemini API, Local LLMs, OpenCV)
 Bus Protocols: RS-485 / Modbus RTU / MQTT / Real-Time Low-Latency Streaming
 Reliability Index: MTBF = 790h verified continuous industrial automation baseline
+> *"2026-yilgi texnologik inqilob — bu sun'iy intellektning ekran ortidan chiqib, real jismoniy dunyoga (datchiklar, motorlar, konveyerlar va robotlarga) to‘g‘ridan-to‘g‘ri integratsiyalashuvidir."*
+
+---
+
+### 🎛️ Mukammal Texnologik Arsenal (Next-Gen Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,arduino,raspberrypi,opencv,tensorflow,pytorch,kotlin,androidstudio,js,nodejs,sqlite,git,github,vscode,docker&perline=9" />
+</div>
+
+<br/>
