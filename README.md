@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- Universe Dynamic Neo-Terminal Banner -->
@@ -31,6 +30,8 @@ Hardware Matrix: Deterministic Microcontrollers (ESP32-S3 / Arduino Mega / Indus
 Cognitive Layer: Multi-Model AI Orchestration (Google Gemini API, Local LLMs, OpenCV)
 Bus Protocols: RS-485 / Modbus RTU / MQTT / Real-Time Low-Latency Streaming
 Reliability Index: MTBF = 790h verified continuous industrial automation baseline
+```
+
 > *"2026-yilgi texnologik inqilob — bu sun'iy intellektning ekran ortidan chiqib, real jismoniy dunyoga (datchiklar, motorlar, konveyerlar va robotlarga) to‘g‘ridan-to‘g‘ri integratsiyalashuvidir."*
 
 ---
@@ -42,3 +43,84 @@ Reliability Index: MTBF = 790h verified continuous industrial automation baselin
 </div>
 
 <br/>
+
+```
+[COGNITIVE LAYER]    Gemini API ── Multi-Agent Workflows ── OpenCV Vision ── Local LLM (Ollama)
+[EMBEDDED SILICON]   ESP32 (S3/CAM/WROOM) ── Arduino Mega 2560 ── Power Topology & BMS ── Actuators
+[INDUSTRIAL FABRIC]  RS-485 / Modbus RTU ── BIXOLON Industrial 300DPI Engine ── "Asl Belgisi" Trace
+[EDA & MECHANICAL]   Proteus Simulation ── JLCPCB Fabrication ── SolidWorks 3D Parametric CAD
+```
+
+---
+
+### 🚀 Asosiy Flagman Loyihalar (Mission-Critical Prototypes)
+
+```
+┌── [01] AGRO-SHIELD INTELLECT V5 (EDGE-AI SUSTAINABILITY) ──────────────────┐
+│ Mission: Avtonom mikroiqlim tahlili va aniq qishloq xo'jaligi sug'orishi   │
+│ Telemetry: ESP32 Dual-Core + Tuproq/Harorat datchiklari + Solenoid klapanlar│
+│ Intelligence: Real-vaqtli Telegram API telemetriyasi va tejamkor purkash   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌── [02] COMBAT & RESCUE ROBOT PLATFORM ("DIGITAL WORLD") ───────────────────┐
+│ Mission: Harbiy-muhandislik va sapyorlik mobil roboti                       │
+│ Kinematics: 4-DOF manipulyator qo'l + Yuqori o'tkazuvchanlikka ega shassi  │
+│ Control: Ultra-past kechikishli (low-latency) Wi-Fi video oqimi & telemetriya│
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌── [03] HIGH-THROUGHPUT INDUSTRIAL MARKING PIPELINE ────────────────────────┐
+│ Mission: 37,500+ mahsulot uchun milliy DataMatrix markirovkalash liniyasi  │
+│ Hardware: BIXOLON XT5-43 (300 DPI) sanoat termal transfer printeri         │
+│ Integration: "Asl Belgisi" talablari + 1C/Buxgalteriya avtomatik sinxroni  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌── [04] RESONANT ULTRASONIC BIO-PHYSICAL EMITTER ───────────────────────────┐
+│ Mission: Dala hashoratlariga qarshi ekologik toza akustik to'lqin himoyasi │
+│ Research: "Yangi O‘zbekiston: Yangi Tadqiqotlar" xalqaro ilmiy jurnali     │
+│ Innovation: Kimyoviy pestitsidlarsiz ekin himoyasi va chastota modulyatsiyasi│
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📊 GitHub Real-Vaqt Tizim Dinamikasi
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=tornado20204-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070a13&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tornado20204-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=070a13&title_color=00F0FF&text_color=94A3B8" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tornado20204-design&theme=tokyonight&hide_border=true&background=070a13&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="98%" />
+</div>
+
+---
+
+### 📡 Shifrlangan Aloqa Portali (Direct Communications)
+
+<div align="center">
+
+```
+>>> INITIALIZING SECURE QUANTUM HANDSHAKE...
+>>> IDENTITY: Diyorbek Yangiboyev (Tashkent, Uzbekistan)
+>>> AVAILABILITY: STRATEGIC R&D COLLABORATION • INDUSTRIAL AUTOMATION • VENTURE CO-FOUNDING
+```
+
+<p>
+  <a href="https://github.com/tornado20204-design">
+    <img src="https://img.shields.io/badge/GITHUB_TERMINAL-tornado20204--design-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=070a13" />
+  </a>
+  <a href="mailto:tornado20204@gmail.com">
+    <img src="https://img.shields.io/badge/SECURE_MAIL-tornado20204%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070a13" />
+  </a>
+</p>
+
+<sub>© 2026 Diyorbek Yangiboyev. Built with raw deterministic precision.</sub>
+
+</div>
